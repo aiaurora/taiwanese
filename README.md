@@ -1,5 +1,5 @@
 <title>
-    LAB12 台語問答練習機
+    台語練習機
 </title>
 <style>
     html,
@@ -179,7 +179,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
     <!-- <div class="left"> -->
-    <h1>LAB12 台語問答練習機</h1>
+    <h1>台語練習機</h1>
 
     <div class="div-relative" style="margin: auto;width: 90%;">
         <div class="msgbox" id="msgbox">
